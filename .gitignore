@@ -129,7 +129,8 @@ pytest.ini
 *.media
 *.pdf
 .env
-crm.example.env
+crm.env
+
 
 
 
